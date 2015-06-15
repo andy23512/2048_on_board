@@ -1,6 +1,6 @@
 2048_on_board
 =============
-
+date
 nanoha
 hayate
 
