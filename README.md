@@ -1,5 +1,6 @@
 2048_on_board
 =============
+fate
 date10
 nanoha
 hayate
