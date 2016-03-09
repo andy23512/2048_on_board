@@ -2,7 +2,7 @@
 =============
 fate
 date10
-nanoha
+n
 hayate
 
 console.log \nanoha
