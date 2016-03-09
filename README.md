@@ -2,7 +2,7 @@
 =============
 fate
 date10
-n
+nanohananoha
 hayate
 
 console.log \nanoha
@@ -13,3 +13,4 @@ dirty
 darby
 
 nanoha
+fate
