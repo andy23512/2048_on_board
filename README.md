@@ -13,4 +13,4 @@ dirty
 darby
 
 nanoha
-fate
+fate is handsome
