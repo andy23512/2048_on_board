@@ -14,3 +14,4 @@ darby
 
 nanoha
 fate is handsome
+nanoha is cute
