@@ -4,7 +4,7 @@ fate
 date10
 nanohananoha
 hayate
-nanoha
+nanoha fate hayate miku
 
 console.log \nanoha
 
